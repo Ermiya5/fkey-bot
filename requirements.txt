@@ -1,4 +1,2 @@
-maxrubika
-rulog
+rubiko
 requests
-nest_asyncio
